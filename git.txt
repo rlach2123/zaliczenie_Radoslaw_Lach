@@ -1,0 +1,5 @@
+git status - badanie zmian i statusu commitów
+git add -A  - dodanie wszystkich plików 
+git commit -m "potwierdzenie zmian" - potwierdzenie zmian 
+git remote add origin rlach@cdv.pl/repozytorium.git
+git push -u origin master
