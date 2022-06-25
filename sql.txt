@@ -1,0 +1,5 @@
+select * from CoffeShop where Product="Latte" or Product="Long Black" and City!="Philadelphia"; 
+
+select Product from CoffeShop where Customer_ref="william thompson_86" or Customer_ref=" mark taylor_113";
+
+select distinct City from CofeeShop where Product="Capuccino" or Product="Flat White";
